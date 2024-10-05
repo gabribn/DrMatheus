@@ -1,0 +1,27 @@
+.servico-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #e4f1fb;
+    border-radius: 12px;
+    padding: 20px;
+    width: 80%; /* Ajustado para ocupar 80% da largura total da página */
+    max-width: 700px; /* Limite de largura máxima */
+    max-height: 90vh;
+    margin: 0 auto; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.servico-logo {
+    width: 100%; /* Agora a imagem ocupa 100% da largura do contêiner */
+    height: auto; /* Altura ajustada automaticamente */
+    object-fit: cover;
+    margin: 10px 0;
+}
+
+.servico-text {
+    font-size: 16px;
+    color: #5e98d9;
+    margin-top: 10px;
+}

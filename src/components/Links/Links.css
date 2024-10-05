@@ -1,0 +1,31 @@
+.link {
+    text-decoration: none;
+}
+  
+.link-container {
+    display: flex;
+    align-items: center;
+    background-color: #e4f1fb; 
+    padding: 10px 20px;
+    width: 70%; 
+    margin: 0 auto; 
+    border-radius: 8px; 
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    transition: background-color 0.3s;
+    margin-bottom: 35px;
+}
+  
+.link-container:hover {
+    background-color: #d0e7f9; 
+}
+  
+.link-logo {
+    width: 50px; 
+    height: auto;
+    margin-right: 15px;
+}
+  
+.link-text {
+    font-size: 16px;
+    color: #5e98d9;
+}
