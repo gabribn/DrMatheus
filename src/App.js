@@ -23,7 +23,7 @@ function App() {
   };
 
   return (
-    <div>
+    <div className='body'>
       <div className="app-background">
           <Person
             imageUrl={profileImage} 
