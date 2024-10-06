@@ -24,40 +24,43 @@ function App() {
 
   return (
     <div>
-      <Person
-        imageUrl={profileImage} 
-        text="Dr. Matheus Passos"
-      />
+      <div className="app-background">
+          <Person
+            imageUrl={profileImage} 
+            text="Dr. Matheus Passos"
+          />
 
-      <Link 
-        imageUrl={whatsappImage} 
-        text="Entre em contato com nossa equipe" 
-        link="https://api.whatsapp.com/send/?phone=5534996554227&text&type=phone_number&app_absent=0" 
-      />
+          <Link 
+            imageUrl={whatsappImage} 
+            text="Entre em contato com nossa equipe" 
+            link="https://api.whatsapp.com/send/?phone=5534996554227&text&type=phone_number&app_absent=0" 
+          />
 
-      <div onClick={scrollToCarousel}>
-        <Link 
-          imageUrl={cases} 
-          text="Casos e Serviços" 
-        />
+          <div onClick={scrollToCarousel}>
+            <Link 
+              imageUrl={cases} 
+              text="Casos e Serviços" 
+            />
+          </div>
+
+          <Link 
+            imageUrl={instagramImage} 
+            text="Conheça mais sobre mim" 
+            link="https://www.instagram.com/drmatheuspassos/" 
+          />
+
+          <span className='Slogan'>Beleza e função em harmonia, para o sorriso que você merece</span>
+
+          <div className="tooth-picture">
+            <img
+              style={{ width: '300px' }}
+              src={tooth}
+              alt="Logo"
+            />
+        </div>
       </div>
-
-      <Link 
-        imageUrl={instagramImage} 
-        text="Conheça mais sobre mim" 
-        link="https://www.instagram.com/drmatheuspassos/" 
-      />
-
-      <span className='Slogan'>Beleza e função em harmonia, para o sorriso que você merece</span>
-
-      <div className="tooth-picture">
-        <img
-          style={{ width: '300px' }}
-          src={tooth}
-          alt="Logo"
-        />
-      </div>
-      <div style={{ marginTop: '100px' }} ref={carouselRef}>
+      <hr></hr>
+      <div className="services" ref={carouselRef}>
         <SimpleSlider />
       </div>
 

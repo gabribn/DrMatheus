@@ -1,3 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  height: 100vh; 
+}
+
+.app-background{
+  background-image: url('./imgs/background.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+  height: 130vh;
+  padding-top: 15px;
+}
+
 .Slogan {
     display: flex;
     flex-direction: column;
@@ -21,3 +36,12 @@
     align-items: center;
     margin-top: 5%;
   }
+
+.services{
+  padding-top: 100px;
+  padding-bottom: 40px;
+  background-image: url('./imgs/background.jpg'); 
+  background-size: cover; 
+  background-position: center; 
+  background-repeat: no-repeat; 
+}
