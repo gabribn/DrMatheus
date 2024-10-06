@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/gabribn/DrMatheus/static/css/main.dc677b98.css",
+    "main.js": "/gabribn/DrMatheus/static/js/main.17b439ef.js",
+    "static/js/453.ff3ddb56.chunk.js": "/gabribn/DrMatheus/static/js/453.ff3ddb56.chunk.js",
+    "static/media/implant.jpg": "/gabribn/DrMatheus/static/media/implant.3fd29a2d20ac198308ed.jpg",
+    "static/media/reconstrucao.jpg": "/gabribn/DrMatheus/static/media/reconstrucao.c38d66462930d8e686a5.jpg",
+    "static/media/teethWhitening.jpg": "/gabribn/DrMatheus/static/media/teethWhitening.a14701227f251a17df13.jpg",
+    "static/media/Profie.jpg": "/gabribn/DrMatheus/static/media/Profie.cb23350dd335ac18e58d.jpg",
+    "static/media/tooth.png": "/gabribn/DrMatheus/static/media/tooth.6c57a4a76ae528611f2e.png",
+    "static/media/instagram.png": "/gabribn/DrMatheus/static/media/instagram.e719d8b29f452a16302d.png",
+    "static/media/cases.png": "/gabribn/DrMatheus/static/media/cases.9a9b0950d3835bc66d06.png",
+    "static/media/prosthesis.jpg": "/gabribn/DrMatheus/static/media/prosthesis.cd42ed240d108801b73d.jpg",
+    "static/media/background.jpg": "/gabribn/DrMatheus/static/media/background.2c53da170af997562495.jpg",
+    "static/media/whatsapp.png": "/gabribn/DrMatheus/static/media/whatsapp.d026940870fb334920b7.png",
+    "static/media/slick.svg": "/gabribn/DrMatheus/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/gabribn/DrMatheus/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/gabribn/DrMatheus/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/gabribn/DrMatheus/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/gabribn/DrMatheus/index.html",
+    "main.dc677b98.css.map": "/gabribn/DrMatheus/static/css/main.dc677b98.css.map",
+    "main.17b439ef.js.map": "/gabribn/DrMatheus/static/js/main.17b439ef.js.map",
+    "453.ff3ddb56.chunk.js.map": "/gabribn/DrMatheus/static/js/453.ff3ddb56.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc677b98.css",
+    "static/js/main.17b439ef.js"
+  ]
+}
