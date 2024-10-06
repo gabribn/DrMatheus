@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DrMatheus/static/css/main.6eed861b.css",
-    "main.js": "/DrMatheus/static/js/main.271f6da8.js",
+    "main.css": "/DrMatheus/static/css/main.431d8d98.css",
+    "main.js": "/DrMatheus/static/js/main.161df9c9.js",
     "static/js/453.ff3ddb56.chunk.js": "/DrMatheus/static/js/453.ff3ddb56.chunk.js",
     "static/media/implant.jpg": "/DrMatheus/static/media/implant.3fd29a2d20ac198308ed.jpg",
     "static/media/reconstrucao.jpg": "/DrMatheus/static/media/reconstrucao.c38d66462930d8e686a5.jpg",
@@ -18,12 +18,12 @@
     "static/media/slick.ttf": "/DrMatheus/static/media/slick.c94f7671dcc99dce43e2.ttf",
     "static/media/slick.woff": "/DrMatheus/static/media/slick.295183786cd8a1389865.woff",
     "index.html": "/DrMatheus/index.html",
-    "main.6eed861b.css.map": "/DrMatheus/static/css/main.6eed861b.css.map",
-    "main.271f6da8.js.map": "/DrMatheus/static/js/main.271f6da8.js.map",
+    "main.431d8d98.css.map": "/DrMatheus/static/css/main.431d8d98.css.map",
+    "main.161df9c9.js.map": "/DrMatheus/static/js/main.161df9c9.js.map",
     "453.ff3ddb56.chunk.js.map": "/DrMatheus/static/js/453.ff3ddb56.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6eed861b.css",
-    "static/js/main.271f6da8.js"
+    "static/css/main.431d8d98.css",
+    "static/js/main.161df9c9.js"
   ]
 }
